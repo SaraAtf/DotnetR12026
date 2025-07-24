@@ -14,3 +14,5 @@
 == Operators
 == control flow (if -- switch -- for - do while)
 == communication with users
+
+== Regex in js (regular expression) (self study)  (including in js exam)
